@@ -1,6 +1,6 @@
 # vueshop
 
-> A Vue.js project
+> A Vue.js project.This project uses MUI,Mint-ui.
 
 ## Build Setup
 
